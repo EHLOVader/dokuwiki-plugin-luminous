@@ -1,0 +1,5 @@
+{
+    "require": {
+        "luminous/luminous": "dev-master"
+    }
+}
