@@ -1,0 +1,12 @@
+/**
+ * Reset luminous styles
+ */
+div.luminous table {
+  border:initial;
+  margin:initial;
+}
+
+
+div.luminous pre {
+  color:initial;
+}a
